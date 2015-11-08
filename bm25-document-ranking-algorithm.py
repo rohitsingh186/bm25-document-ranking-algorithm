@@ -8,7 +8,7 @@ import time
 
 
 # Changing current directory
-os.chdir("C:\Users\Rohit Singh\Downloads\Class\Assignment\IR")
+os.chdir("this-file-path")
 
 
 # Global Variables
