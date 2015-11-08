@@ -199,6 +199,6 @@ if len(docs_remaining) != 0:
     f.close()
 
 
-# Printing time elapsed in writing
+# Printing time elapsed in writing inverted index
 t2 = time.time()
 print t2 - t1
